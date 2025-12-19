@@ -14,7 +14,7 @@
 
 <p align="left">
 <img width="220" height="885" alt="Снимок экрана 2025-12-19 в 14 49 03" src="https://github.com/user-attachments/assets/d5ba2002-7237-4f30-8bcf-ff9c09b08356" />
-<img width="220" height="885" alt="Снимок экрана 2025-12-19 в 14 50 54" src="https://github.com/user-attachments/assets/8029c73d-6669-4fdf-a8d4-7d89f21657b5" />
+<img width="220" height="885" alt="Снимок экрана 2025-12-19 в 15 22 59" src="https://github.com/user-attachments/assets/1e1976dc-72f5-4585-9a7a-45b7268d0024" />
 </p>
 
 * 🔐 Авторизация и регистрация пользователей (email / password)
